@@ -20,7 +20,7 @@ public Kunde(String vorname, String nachname, int alter) {
 
 //toString Methode
 public String toString(){
-    return "Kunden-Objekt enthält folgende Daten: " + "Vorname: " + vorname + ", Nachname: " + nachname + " und ist so alt:" + alter;
+    return "\n" + "Kunden-Objekt enthält folgende Daten: " + "Vorname: " + vorname + ", Nachname: " + nachname + " und ist so alt:" + alter +"\n";
 }
 
 //GEtters and Settersss
