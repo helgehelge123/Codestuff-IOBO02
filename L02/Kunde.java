@@ -23,6 +23,9 @@ public String toString(){
     return "\n" + "Kunden-Objekt enthält folgende Daten: " + "Vorname: " + vorname + ", Nachname: " + nachname + " und ist so alt:" + alter +"\n";
 }
 
+//equals Methos
+
+
 //GEtters and Settersss
 public String getVorname() {
     return vorname;
