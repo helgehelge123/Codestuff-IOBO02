@@ -1,6 +1,6 @@
 package L02;
 
-public class CompareAuto implements Comparable<CompareAuto> {
+public class CompareAuto implements Comparable<CompareAuto>{
     
     private int baujahr;
     private float verbrauch;
