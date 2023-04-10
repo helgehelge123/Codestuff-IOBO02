@@ -1,3 +1,8 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/PersonalUse/Documents/Java_Libs/apache-log4j-2.20.0-bin/log4j-api-2.20.0.jar",
+        "/Users/PersonalUse/Documents/Java_Libs/apache-log4j-2.20.0-bin/**/*.jar"
+    ]
 }
